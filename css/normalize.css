@@ -347,3 +347,23 @@
   [hidden] {
     display: none;
   }
+  
+  /* Additional
+     ========================================================================== */
+  /*
+   * Box sizing and 
+   */
+  table,
+  ul,
+  li,
+  div,
+  section,
+  input,
+  textarea {
+      -webkit-appearance: none;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+      border-collapse: collapse;
+      border-spacing: 0;
+  }
