@@ -367,3 +367,15 @@
       border-collapse: collapse;
       border-spacing: 0;
   }
+ 
+  /*
+   * Ul li
+   */
+  ul {
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  li {
+    list-style-type: none;
+  }
