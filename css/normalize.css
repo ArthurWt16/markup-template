@@ -381,3 +381,11 @@
   li {
     list-style-type: none;
   }
+ 
+  /*
+   * A decoration
+   */
+  a {
+    text-decoration: none;
+    cursor: pointer;
+  }
